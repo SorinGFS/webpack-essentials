@@ -3,7 +3,7 @@
     "version": "1.0.1",
     "description": "Webpack plus essential plugins, loaders and helper packages.",
     "main": "index.js",
-    "devDependencies": {
+    "dependencies": {
         "@babel/core": "^7.18.10",
         "@babel/preset-env": "^7.18.10",
         "@babel/preset-react": "^7.18.6",
