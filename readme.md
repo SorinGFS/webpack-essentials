@@ -14,4 +14,4 @@ When any of installed packages has a major release we will realease a patch.
 
 #### Contributions
 
-Please feel free to announce a major release (with or without pull request) or to propose some package that should be included here.
+Please feel free to propose some package that should be included here.
