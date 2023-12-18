@@ -27,7 +27,7 @@
         "webpack-clean-css-after-compile-plugin": "^1.0.1",
         "webpack-cli": "^5.0.0",
         "webpack-dev-server": "^4.10.0",
-        "webpackbar": "^5.0.2"
+        "webpackbar": "^6.0.0"
     },
     "repository": {
         "type": "git",
