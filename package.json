@@ -1,6 +1,6 @@
 {
     "name": "webpack-essentials",
-    "version": "1.0.19",
+    "version": "1.0.20",
     "description": "Webpack plus essential plugins, loaders and helper packages.",
     "main": "index.js",
     "dependencies": {
