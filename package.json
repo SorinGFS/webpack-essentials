@@ -1,6 +1,6 @@
 {
     "name": "webpack-essentials",
-    "version": "1.0.27",
+    "version": "1.0.28",
     "description": "Webpack plus essential plugins, loaders and helper packages.",
     "main": "index.js",
     "dependencies": {
@@ -11,8 +11,10 @@
         "@pmmmwh/react-refresh-webpack-plugin": "^0.6.0",
         "autoprefixer": "^10.4.8",
         "babel-loader": "^10.0.0",
+        "copy-webpack-plugin": "^14.0.0",
         "cross-env": "^10.0.0",
         "css-loader": "^7.0.0",
+        "css-minimizer-webpack-plugin": "^8.0.0",
         "html-webpack-plugin": "^5.5.0",
         "mini-css-extract-plugin": "^2.6.1",
         "postcss": "^8.4.16",
@@ -24,6 +26,8 @@
         "sass-loader": "^17.0.0",
         "style-loader": "^4.0.0",
         "webpack": "^5.74.0",
+        "webpack-assets-manifest": "^6.5.2",
+        "webpack-bundle-analyzer": "^5.3.1",
         "webpack-clean-css-after-compile-plugin": "^1.0.1",
         "webpack-cli": "^7.0.0",
         "webpack-dev-server": "^6.0.0",
