@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Materialized workspace data is generated state.
+/#/
